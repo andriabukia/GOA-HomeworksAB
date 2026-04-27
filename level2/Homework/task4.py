@@ -1,0 +1,11 @@
+#task4
+num1 = int(input("შეიყვანეთ პირველი რიცხვი: "))
+num2 = int(input("შეიყვანეთ მეორე რიცხვი: "))
+num3 = int(input("შეიყვანეთ მესამე რიცხვი: "))
+print("plus+:", num1 + num2 + num3)
+print("minus-:", num1 - num2 - num3)
+print("multiply*:", num1 * num2 * num3)
+print("divide/:", num1 / num2 / num3)
+print("nashti%:", num1 % num2 % num3)
+print("power**:", num1 ** num2 ** num3)
+print("floor//:", num1 // num2 // num3)

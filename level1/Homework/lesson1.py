@@ -14,8 +14,8 @@ print(name + " " + lastname + " " + str(age) + " " + FavColor)
 #შეცდომით დაწერილი კოდი
         # name = Saba
         # age = 16
-        # print(Name
-        #print(AGE
+        # print(Name)
+        #print(AGE)
 #გასწორებული კოდი
 name = "Saba"
 age = 16
