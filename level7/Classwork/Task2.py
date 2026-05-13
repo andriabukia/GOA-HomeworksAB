@@ -1,0 +1,1 @@
+Types = ["string", 10, True, 12.43]
